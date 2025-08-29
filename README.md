@@ -2,6 +2,7 @@
 
 This repository contains an interactive dashboard built using Microsoft Excel to analyze retail sales data for the year 2023. The project is designed to showcase data-driven insights, patterns, and trends that can help businesses make informed decisions.
 
+![Dashboard Demo](Interactive_RetailSales_Dashboard1-Excel-GIF)
 ## 📌 Project Highlights
 
 - 📆 Sales performance tracked monthly and quarterly
